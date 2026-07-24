@@ -7,6 +7,3 @@
 ● 3 resistencias de 220 Ω
 ● Cables de conexión
 
-Trabajo de Ana Paganessi.
-Link del proyecto semaforo en Wokwi 
-https://wokwi.com/projects/467266351672983553
